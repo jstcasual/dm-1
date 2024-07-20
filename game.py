@@ -18,3 +18,5 @@ if x!=y:
     print(f"答案為:{x}")
 else:
     print(f"共猜了{+1}次")
+
+print("game over")
